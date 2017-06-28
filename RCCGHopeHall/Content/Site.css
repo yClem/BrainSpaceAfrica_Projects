@@ -1,0 +1,971 @@
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+::-webkit-scrollbar-track {
+  background-color: white;
+}
+ 
+::-webkit-scrollbar-thumb {
+    
+      -webkit-box-shadow: inset 0 0 6px rgba(193, 193, 193, 0.2);
+      background-color: rgba(0,0,0,0.8);
+}
+#rccg
+{
+    font-family: 'Raleway', serif;
+    font-family: 26px;
+}
+.imageProp
+{
+    margin-top: 12px;
+    margin-right: 8px;
+    float: right;
+    height: 25px;
+    width: 25px;
+}
+
+.imageProp:hover
+{
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+}
+
+#moveRight
+{
+    margin-left: 6%;
+}
+
+#Content
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.nav1
+{
+    margin-top: -10px;
+    height: 106px;
+    background-image: url("../Content/Images/WeeklyAct.png");
+
+}
+
+.nav2
+{
+    margin-top: -10px;
+    height: 108px;
+
+}
+
+#Second
+{
+    text-align: center; 
+    padding-top: 13px;
+}
+
+#HopeText
+{
+    font-family: 'Raleway', serif;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+#padToTop
+{
+    margin-top: -20px;
+}
+
+#titleColor
+{
+    height: 30px;
+    background-color: rgba(70, 30, 50, 0.4);
+}
+/**********************************************************************/
+#mainImage
+{
+    width: 100%;
+}
+#ImageSlider
+{
+    margin-top: -20px;
+}
+
+.logoUp
+{
+    visibility: none;
+}
+
+#HopeModal
+{
+    width: 450px;
+    height: 450px;
+}
+
+#Address{ 
+    font-size:18px;
+    float: right;
+    color: white;
+    font-family: gabriola;
+    padding-right: 20px;
+    line-height: 24px; 
+    margin-top: -28px;
+}
+
+.fixTop
+{
+    position: fixed;
+}
+
+hr {
+  
+   height: 4px;
+
+}
+
+#Mini
+{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#MinistriesInRCCGHopeHall
+{
+    margin-top: 30px;
+}
+#centerDiv
+{
+    text-align: center;
+}
+
+.ReflectionsBottom
+{
+    margin-top: 30px;
+}
+
+#DeclarationText
+{
+    color: rgb(70, 30, 50);
+    font-weight: bold;
+    font-family: Gabriola;
+    font-size: 90px;
+
+}
+
+#DeclarationDiv
+{
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#panelDiv
+{
+     text-align: center;
+}
+
+#panelHead
+{
+     background-color: white;
+}
+
+#right{
+    margin-top: 100px;
+}
+#left{
+    text-align: left;
+}
+
+#pullDown
+{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#panelHead0
+{
+    background-image: url("../Content/Images/sermon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#panelHead1
+{
+    border: 1px solid black;
+     background-image: url("../Content/Images/MakeHeaven.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#panelHead2
+{
+    border: 1px solid black;
+    background-image: url("../Content/Images/Services.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panelHeadingHeight
+{
+    height: 120px;
+    text-align: center;
+}
+
+.panelHeadingHeight1
+{
+    height: 110px;
+    text-align: center;
+}
+
+.panelHeadingHeight2
+{
+    height: 110px;
+    text-align: center;
+}
+.......................................*/
+.logoUp
+{
+margin-top: -10px;
+margin-bottom: -10px;
+margin-left: 30px;
+}
+
+.textUp
+{
+    margin-top: 12px;
+    
+}
+
+#mottoDiv
+{
+    width: 100%;
+    height: 18px;
+   
+}
+
+#Ministering
+{
+    font-family: Gabriola;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold; 
+    line-height: 25px;
+}
+
+#detail
+{
+    font-family: Gabriola;
+    font-size: 26px;
+    text-align: center; 
+    line-height: 24px;
+}
+
+#navContent
+{
+    background-color: white;
+}
+
+
+#addClassActive
+{
+    font-size: 14px;
+    color: black;   
+    font-family: 'Raleway', serif;
+}
+
+#addClassActive:hover
+{
+    color: white;
+    background-color: rgb(70, 30, 50);    
+}
+
+#addClassActive00
+{
+    font-size: 14px;
+    color: black;
+    font-family: 'Raleway', serif;
+    line-height: 28px;
+}
+#clearSpaceTop
+{
+    margin-top: -5px;
+}
+#clearSpaceBottom
+{
+    margin-bottom: -5px;
+}
+
+#HH
+{
+    margin-top: 10px;
+    margin-left: -20px;
+}
+
+#addClassActive00:hover
+{
+    color: white;
+   background-color: rgb(70, 30, 50);    
+}
+
+
+.RowDiv
+{
+    height: 300px;
+}
+
+.getProp
+{
+    height: 125px;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+}
+
+#titlehead
+{
+    margin-top: 5px;
+    font-size: 22px;
+    color: black;
+    font-family: Gabriola;
+}  
+
+a #titlehead:hover
+{
+    
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none!important;
+
+
+}
+
+#titleText
+{
+    
+    font-size: 16px;
+    font-weight: 250px; 
+    font-family: Gabriola;
+    color: black;
+}
+
+.welcomeDiv
+{
+    height: 250px;
+}
+
+
+
+#footer
+{
+    height: 40px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+   
+}
+
+
+#ListenDiv
+{    height: 60px; 
+   text-align: center;
+}
+
+
+/*.......................................*/
+
+/*ABOUT.PHP BEGINS HERE
+--------- */
+
+#setHeight
+{
+    text-align: center;
+}
+
+
+/*ABOUT.PHP ENDS HERE
+--------- */
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+
+.dl-horizontal dt {
+    white-space: normal;
+}*/
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.imgSize
+{
+    height: 100px;
+    width: 100px;
+   
+}
+
+#OpenHeavensDailyReflection
+{
+    margin-top: 15px;
+    height: 15px;
+
+}
+
+.Event
+{
+    margin-top: 30px;
+}
+
+#EventContent
+{
+    border: 2px solid rgba(70, 30, 50, 0.4);
+    height: 400px;
+}
+
+#ArticleContent
+{
+    border: 2px solid rgba(70, 30, 50, 0.4);
+    height: 200px;
+    margin-top: 10px;
+}
+
+#TestimonyContent
+{
+    border: 2px solid rgba(70, 30, 50, 0.4);
+    height: 300px;
+    margin-top: 10px;
+}
+
+#EventParagraph
+{
+    background-color: green;
+}
+
+#hopeHall
+{
+    text-align:center;
+    font-family: Castellar;
+    font-size : 26px;
+    color:white;
+    margin-top:2px;
+}
+
+#MottoText
+{
+    text-align:center;
+    font-family: Arial;
+    font-size : 14px;
+    color:white;
+}
+
+#boldText
+{
+    font-weight : 400;
+    color : white;
+    padding-top : 5px;
+    text-align:center;   
+}
+
+.sliderImage
+{
+    width : 100%;
+    height : 70%;
+}
+
+#detailText
+{
+    padding-left : 1px;
+    font-family:Calibri;
+    font-size:14px;
+      font-weight : 400;
+}
+#slideText
+{
+	font-family: papyrus;	
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#googleMap{
+    height : 400px;
+    width: 100%;
+    background-color : rgb(218, 210 , 214); 
+    margin-top: -20px;
+}
+#contactBanner
+{
+    padding-top: 20px;
+    height: 100px;
+    width: 100%;
+}
+#aboutBanner
+{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#contactDesc
+{
+    font-family: 'Raleway', serif;
+    font-size: 24px;
+    font-weight: 800;
+    color: black;
+}
+#HopeHallText
+{
+    margin-bottom: 40px;
+}
+#mottoDesc
+{
+    font-family: 'Raleway', serif;
+    font-size: 22px;
+    color: rgb(150, 68, 121);
+    font-weight: bold;
+
+}
+
+#contactAddress
+{
+    font-family: 'Raleway', serif;
+    font-size: 14px;
+    color: rgba(0,0,0,0,1);
+}
+#contactBody
+{
+    padding-top: 20px;
+}
+#HHS221
+{
+    font-size: 20px;
+}
+#contactBody
+{
+    height: 500px;
+}
+
+.btnProp
+{
+	float: right;
+	background-color: rgba(192, 192, 192, 0.2);
+} 
+    
+
+.lh{
+    line-height: 22px;
+}
+
+.RowDiv
+{
+    
+    height: 240px;
+
+}
+
+#PrayerDiv
+{
+    text-align: center;
+    padding-top: 2px;
+}
+#PrayerRequestDiv
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#prayerStmt
+{
+    font-family: 'Raleway', serif;
+    font-size: 15px;
+}
+
+#contactId
+{
+    line-height: 40px;
+    font-size: 44px;
+    text-align: center;
+    color: white;
+    font-family: Gabriola;
+    font-weight: 400;
+}
+
+#contactId2
+{
+    line-height: 15px;
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    font-family: Gabriola;
+    color: rgb(70, 30, 50);
+   
+}
+
+#contactId3
+{
+    font-size: 24px;
+    text-align: left;
+    font-family: Gabriola;
+    color: rgb(70, 30, 50);
+   
+}
+
+.inc
+{
+    height: 30px;
+    width: 30px;
+}
+
+ #centerBeliefs
+{
+ text-align: center;
+ margin-top: 10px;
+}
+
+#heading
+{
+    font-size: 28px;
+    color: rgb(19, 7, 7);
+}
+#subheading
+{
+    font-size: 16px;
+    font-weight: 500px;
+    color: rgb(19, 7, 7);
+}
+
+
+
+#welcomePageDiv
+{
+    text-align: center;
+}
+
+#aboutTop
+{
+    height: 15px;
+    background-color: rgb(73, 30, 50);
+}
+
+#aboutMiddle
+{
+    text-align: center;
+    height: 240px;
+    background-color: rgb(0, 0, 0);
+    padding-top: 20px;
+}
+
+#aboutBottom
+{
+    height: 5px;
+    background-color: rgb(73, 30, 50);
+}
+
+#contactAbout
+{ 
+    font-size:18px;
+    text-align: center;
+    color: white;
+}
+
+#contactAboutFooter
+{ 
+    text-align: center;
+    color: white;
+    font-family: Gabriola;
+    margin-top: 14px; 
+}
+
+.floatClems
+
+{
+    text-align: left;
+    padding-left: 5px;
+   margin-top: 10px;
+}
+
+.copyrightFont
+{
+    color: white;
+    font-family: gabriola;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.BackToTopDiv
+{
+   text-align: right;
+    padding-right: 10px;
+    margin-top: 16px;
+}
+
+/*Ministry Starts Here*/
+
+#MinitryText
+{
+    text-align: center;
+}
+
+#MinistriesContainer
+{
+    text-align: center;
+
+}
+#Custom4
+{
+    text-align: center;
+}
+
+#Custom8
+{
+    text-align: left;
+    padding-left: 20px;
+}
+
+#Sermons
+{
+    margin-right: 75px;
+}
+
+
+#sermontitle{
+    height: 15px;
+}
+
+#sermontitle
+{
+    font-family: gabriola;
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+#sermontitlefooter
+{
+    text-align: center;
+    font-family: gabriola;
+    font-size: 18px;
+
+}
+
+#sermontitlecontent
+{
+    text-align: left;
+    font-family: gabriola;
+    font-size: 19px;
+}
+
+#sermontitlecontent span
+{
+    font-size: 34px;
+}
+#glyphicon
+{
+    float: right;
+    opacity: 0.4;
+}
+
+#glyphicon:hover
+{
+    opacity: 1;
+}
+
+/* Outer */
+.popup {
+    width:100%;
+    height:100%;
+    display:none;
+    position:fixed;
+    top:0px;
+    left:0px;
+    background:rgba(0,0,0,0.75);
+}
+marquee
+{
+    padding-top: 2px;
+    font-family: 'Raleway', serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+#pnel
+{
+    width: 100%;
+}
+
+#social
+{
+    height: 250px;
+    width: 100%;
+    background-color: rgba(73, 30, 50, 0.2);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+#push-down
+{
+    margin-top: 80px;
+}
+
+#push-down0
+{
+    margin-top: 130px;
+}
+#navImages
+{
+    border: 1px solid rgb(230, 230, 230);
+}
+#navImages:hover
+{
+    border: 3px solid rgb(164, 180, 205);
+}
+#leftCopyRight
+{
+    color: black;
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Raleway', serif;
+    padding-left: 100px;
+    padding-top: 12px;
+}
+#rightCopyRight
+{
+    color: black;
+    float: right;
+    font-size: 15px;
+    font-family: 'Raleway', serif;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+#rccghopehall a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+
+}
+
+#xtrimIt a
+{
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Raleway', serif;
+    text-decoration: none;
+    color: black;
+}
+
+/***********************PRAYER REQUEST************************/
+
+
+
+
+
+
+
+@media screen and (max-width: 716px)
+{
+    #mottoDesc
+    {
+    font-size: 18px;
+    }
+    #HH1
+    {
+        height: 90%;
+    }
+    #HopeText
+    {
+        font-size: 14px;
+    }
+    #aboutBanner
+    {
+    height: 70px;
+    }
+    #ifr
+    {
+        width: 520px;
+        height: 305px;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    #mottoDesc
+    {
+    font-size: 16px;
+    }
+    #HH1
+    {
+        height: 80%;
+    }
+    #aboutBanner
+    {
+    height: 60px;
+    }
+    #HopeText
+    {
+        font-size: 14px;
+    }
+    #rightCopyRight
+    {
+        display: none;
+    }
+    #leftCopyRight
+    {
+        padding-left: 30px;
+        font-size: 14px;
+    }
+    #footer
+    {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 280px)
+{
+    #mottoDesc
+    {
+    font-size: 14px;
+    }
+    #HH1
+    {
+        height: 70%;
+    }
+    #aboutBanner
+    {
+    height: 50px;
+    }
+    #HopeText
+    {
+        font-size: 13px;
+    }
+    #rightCopyRight
+    {
+        display: none;
+    }
+    #leftCopyRight
+    {
+        padding-left: 20px;
+        font-size: 13px;
+    }
+    #footer
+    {
+        text-align: center;
+    }
+    #contactBanner
+    {
+    padding-top: 20px;
+    height: 130px;
+    width: 100%;
+    }
+    #contactBody
+    {
+    height: 610px;
+    }
+}

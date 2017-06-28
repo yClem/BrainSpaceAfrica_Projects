@@ -1,0 +1,128 @@
+
+#Intro
+{
+	background-image: url("../Images/Coded.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 93vh;
+	width: 100%;	
+	text-align: center;
+	background-color: rgb(39, 40, 34);
+}
+
+#Intro1
+{
+	color: white;
+	font-size: 90px;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	margin-top: 50px;
+	padding-top: 50px;
+}
+
+#Intro2
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 30px;
+    line-height: 30px;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	font-family: Raleway;
+}
+
+#Intro3
+{
+	text-align: center;
+	margin-top: 35px;	
+}
+
+#Intro3Image
+{
+	border-radius: 100%;
+	opacity: 0.75;
+	margin-top: 50px;
+}
+
+#moveright
+{
+	margin-left: 33%;
+}
+
+#addClassActive
+{
+	color: white;
+	font-size: 14px;
+}
+
+#addClassActive:hover
+{
+	background-color: rgb(39, 40, 34);
+	border-top: 1px dashed white;
+	border-bottom: 1px dashed white;
+}
+
+#hrLine
+{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#navDiv
+{
+	text-align: center;
+	margin-right: auto;
+}
+
+#ProjectsHead
+{
+   
+	height: 60vh;
+	background-image: url("../Images/Coded.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+
+#ProjectTitle
+{
+	color: white;
+	font-size: 55px;
+	font-family: Raleway;
+	padding-top: 35px;
+}
+
+#ProjectDescription
+{
+	margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 30px;
+    line-height: 30px;
+	color: white;
+	font-size: 18px;
+	font-family: Raleway;
+}
+
+#ProjectBody
+{
+	height: 33vh;
+}
+
+#Skills
+{
+	text-align: center;
+	height: 93vh;
+	text-align: center;
+	background-image: url("../Images/BackContd.jpg");
+	background-size: cover;
+	
+}
+
+#SkillsTitle
+{
+	color: white;
+	font-size: 50px;
+	font-family: Raleway;
+	padding-top: 30px;
+}

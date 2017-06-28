@@ -1,0 +1,296 @@
+
+
+#batterylogo
+{
+height: 40px;
+width: 40px;
+margin-top: 5px;
+margin-bottom: 0px;
+}
+
+{
+    background-image: url("../Images/BackGround.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.downDesign
+{
+	border: 1px;
+	height: 220px;
+	background-color: rgba(114, 191, 192, 0.5);
+	border-radius: 10px 10px 0 0;
+}
+
+.bodyDesign
+{
+	border: 1px;
+	height: 700px;
+	background-color: rgba(114, 191, 192, 0.2);
+	padding: 0 50px 0 50px;
+	border-radius: 10px 10px 0 0;
+}
+
+#Battery_Types
+{
+	height: 35px;
+}
+
+.BatteryDetails
+{
+	border: 1px;
+	height: 700px;
+	border-radius: 10px;
+	padding-top: 35px;
+}
+
+.copyright
+{
+	background-color: rgba(114, 191, 192, 0.5);
+}
+
+.mydiv
+{
+	height: ;
+	width: 100%;
+}
+
+li a #config3
+{
+	font-size: 15px;
+
+}
+
+li a:hover
+{
+ font-size: 30px;
+ font-weight: bolder;
+}
+
+div #config1
+{
+	font-family: Colonna MT;
+	font-size: 28px;
+	color: rgb(0,0,0);
+	font-weight: bolder;
+}
+
+#summary
+{
+	font-family: papyrus;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	font-weight: 500;
+}
+
+#captionFont
+{
+	font-family: papyrus;
+	font-weight: bolder;
+}
+.alignFont
+{
+	text-align: center;
+}
+
+#config0
+{
+	margin-top: 1px;
+}
+
+.moveRight
+{
+ display: block;
+ width: 40%;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.imageProp
+{
+	margin-top: 15px;
+	margin-right: 5px;
+	float: right;
+	height: 20px;
+	width: 20px;
+}
+
+.imagePropfooter
+{
+	height: 20px;
+	width: 20px;
+}
+
+.imageProp:hover
+{
+	cursor: pointer;
+	height: 25px;
+	width: 25px;
+}
+
+.imagePropfooter:hover
+{
+	cursor: pointer;
+	height: 25px;
+	width: 25px;
+}
+
+#pull-in
+{
+	margin-right: 80px;
+}
+
+#alignImage
+{
+	margin-left: 200px;
+	margin-top: 50px;
+}
+
+.center3
+{
+  background-color: white;
+  height: 500px;
+  width: 75%;
+  border: 1px solid white;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+
+.center3:hover{
+ color: white;
+}
+
+.baterryName
+{
+	font-family: papyrus;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.baterryName:hover
+{
+	
+}
+
+.centerDiv
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div .center3:hover
+{
+	background-color: rgba(114, 191, 192, 1);
+	cursor: pointer;
+}
+
+#batterylogoInDiv
+{
+	height: 160px;
+	width: 160px;
+	margin-top: 30px;
+	margin-left: 25%;
+
+}
+
+#footerbatterylogo
+{
+	height: 100px;
+	width: 100px;
+	margin-top: 70px;
+	margin-left: 90px;
+}
+
+#alignparagraph
+{
+	margin-left: 90px;
+	font-family: papyrus;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#alignparagraph2
+{
+	font-family: papyrus;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.copyrightFont
+{
+	font-family: papyrus;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#alignaboutparagraph
+{
+	margin-top: 70px;
+	font-family: papyrus;
+	font-size: 26px;
+	font-weight: bolder;
+}
+
+
+#CarBatteryInDesign
+{
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: 43%;
+}
+
+#All 
+{
+	margin-right: auto;
+	margin-left: auto;
+	height: 51%;
+	width: 100%;
+}
+
+#All2
+{
+	margin-right: auto;
+	margin-left: auto;
+	height: 52%;
+	width: 97%;
+}
+
+#call_whatsapp
+{
+	margin-right: auto;
+	margin-left: 20%;
+	
+}
+
+#batteryContent
+{
+	padding: 5px;
+	text-align: center;
+	font-family: papyrus;
+	font-size: 17px;
+}
+
+#btnRemove
+{
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+
+
+#btnClose
+{
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+
+#Details
+{
+	height: 20px;
+}
